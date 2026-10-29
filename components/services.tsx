@@ -36,7 +36,7 @@ const servicesList: ServiceItem[] = [
     title: "Special Needs Transport",
     description:
       "Reliable, door-to-door transportation with patient, hands-on assistance tailored to each passenger’s mobility and accessibility needs.",
-    image: "/images/special-transportations.webp",
+    image: "/images/special-needs-transport.jpg",
   },
 ];
 
